@@ -1,6 +1,6 @@
 # Hi, I'm Wasir 👋
 
-I'm a Full Stack Developer in training based in Khulna, Bangladesh.
+I'm a full-stack developer in training based in Khulna, Bangladesh.
 
 ## 🚀 Currently Learning
 - Python & Django (Backend)
@@ -11,7 +11,7 @@ I'm a Full Stack Developer in training based in Khulna, Bangladesh.
 ## 🎯 Goal
 Become a job-ready Junior Software Engineer by end of 2026.
 
-## 🛠️ Tech Stack (in progress)
+## 🛠️ Tech Stack
 Python · Django · PostgreSQL · React · Git
 
 ## 📈 Commitment
